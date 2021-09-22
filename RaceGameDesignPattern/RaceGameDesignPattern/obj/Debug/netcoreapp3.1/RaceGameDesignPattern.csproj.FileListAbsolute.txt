@@ -1,0 +1,13 @@
+C:\Users\Guilherme\source\repos\RaceGameDesignPattern\RaceGameDesignPattern\bin\Debug\netcoreapp3.1\RaceGameDesignPattern.exe
+C:\Users\Guilherme\source\repos\RaceGameDesignPattern\RaceGameDesignPattern\bin\Debug\netcoreapp3.1\RaceGameDesignPattern.deps.json
+C:\Users\Guilherme\source\repos\RaceGameDesignPattern\RaceGameDesignPattern\bin\Debug\netcoreapp3.1\RaceGameDesignPattern.runtimeconfig.json
+C:\Users\Guilherme\source\repos\RaceGameDesignPattern\RaceGameDesignPattern\bin\Debug\netcoreapp3.1\RaceGameDesignPattern.runtimeconfig.dev.json
+C:\Users\Guilherme\source\repos\RaceGameDesignPattern\RaceGameDesignPattern\bin\Debug\netcoreapp3.1\RaceGameDesignPattern.dll
+C:\Users\Guilherme\source\repos\RaceGameDesignPattern\RaceGameDesignPattern\bin\Debug\netcoreapp3.1\RaceGameDesignPattern.pdb
+C:\Users\Guilherme\source\repos\RaceGameDesignPattern\RaceGameDesignPattern\obj\Debug\netcoreapp3.1\RaceGameDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\RaceGameDesignPattern\RaceGameDesignPattern\obj\Debug\netcoreapp3.1\RaceGameDesignPattern.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\RaceGameDesignPattern\RaceGameDesignPattern\obj\Debug\netcoreapp3.1\RaceGameDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\RaceGameDesignPattern\RaceGameDesignPattern\obj\Debug\netcoreapp3.1\RaceGameDesignPattern.dll
+C:\Users\Guilherme\source\repos\RaceGameDesignPattern\RaceGameDesignPattern\obj\Debug\netcoreapp3.1\RaceGameDesignPattern.pdb
+C:\Users\Guilherme\source\repos\RaceGameDesignPattern\RaceGameDesignPattern\obj\Debug\netcoreapp3.1\RaceGameDesignPattern.genruntimeconfig.cache
+C:\Users\Guilherme\source\repos\RaceGameDesignPattern\RaceGameDesignPattern\obj\Debug\netcoreapp3.1\RaceGameDesignPattern.csprojAssemblyReference.cache
